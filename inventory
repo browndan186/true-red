@@ -1,0 +1,6 @@
+[target_servers]
+host01 ansible_host=<ipaddress> ansible_ssh_user=<username> ansible_ssh_pas=<pass>
+host02 ansible_host=<ipaddress> ansible_ssh_user=<username> ansible_ssh_pas=<pass>
+host03 ansible_host=<ipaddress> ansible_ssh_user=<username> ansible_ssh_pas=<pass>
+
+
